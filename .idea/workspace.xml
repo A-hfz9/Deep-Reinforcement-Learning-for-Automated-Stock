@@ -4,111 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce4d5c61-b303-478b-af3c-d3b706be77cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/preprocessors.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing/preprocessors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_rewards_trade_ensemble_441.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_rewards_trade_ensemble_504.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_rewards_trade_ensemble_567.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_rewards_trade_ensemble_630.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_rewards_trade_ensemble_693.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_rewards_trade_ensemble_756.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_1134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_1197.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_1197.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_126.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_189.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_189.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_252.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_315.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_315.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_378.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_441.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_441.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_504.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_567.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_567.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_630.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_630.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_693.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_trade_ensemble_945.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_train.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_1008.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_1008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_1071.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_1071.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_1134.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_1134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_1197.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_1197.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_126.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_189.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_252.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_315.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_315.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_378.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_378.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_441.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_693.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_756.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_756.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_819.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_819.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_882.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_882.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_945.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/account_value_validation_945.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/firstRun/last_state_ensemble_62.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_DRL.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_DRL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_1071.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_1134.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_1197.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_126.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_189.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_252.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_315.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_378.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_441.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_504.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/A2C_30k_dow_567.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/DDPG_10k_dow_1134.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/DDPG_10k_dow_1197.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/DDPG_10k_dow_126.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/DDPG_10k_dow_189.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/DDPG_10k_dow_252.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/DDPG_10k_dow_315.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/DDPG_10k_dow_378.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_1008.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_1071.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_1134.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_1197.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_126.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_189.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_315.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_378.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_441.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_504.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_567.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_630.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_693.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_756.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_819.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_882.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/PPO_100k_dow_945.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained_models/firstRun/firstRun.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="ce4d5c61-b303-478b-af3c-d3b706be77cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696788825178</updated>
       <workItem from="1696788826332" duration="364000" />
-      <workItem from="1696789204686" duration="6864000" />
+      <workItem from="1696789204686" duration="7191000" />
     </task>
     <servers />
   </component>
